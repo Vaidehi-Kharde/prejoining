@@ -1,3 +1,4 @@
 To create and solve merge conflicts
 studying branching, merging and stashing, and solving merge conflicts too
 This is the unfinished work supposed to be stashed.
+Making a local change
