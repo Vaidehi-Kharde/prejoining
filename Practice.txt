@@ -1,2 +1,3 @@
 hello
 studying branching, merging and stashing.
+This is the unfinished work supposed to be stashed.
