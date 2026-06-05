@@ -1,1 +1,2 @@
 hello
+studying branching, merging and stashing.
