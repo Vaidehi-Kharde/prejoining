@@ -1,0 +1,18 @@
+User
+----
+id              Integer (Primary Key)
+name            String
+email           String (Unique)
+password_hash   String
+phone           String
+created_at      DateTime
+
+Role
+----
+id              Integer (Primary Key)
+name            String
+
+UserRole
+--------
+user_id         Integer (Foreign Key -> User.id)
+role_id         Integer (Foreign Key -> Role.id)
